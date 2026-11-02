@@ -1,7 +1,7 @@
 # Shortee Research
 
 Public articles and research from Shortee, published at
-https://shortee-inc.github.io/research/.
+https://research.myshortee.com/.
 
 ## Publishing an article
 

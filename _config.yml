@@ -1,8 +1,8 @@
 title: Shortee Research
 description: Articles and research from Shortee.
 theme: minima
-baseurl: /research
-url: https://shortee-inc.github.io
+baseurl: ""
+url: https://research.myshortee.com
 permalink: /:year/:month/:title/
 exclude:
   - README.md
