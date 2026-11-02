@@ -8,7 +8,7 @@ Shortee Research publishes analysis of the microdrama industry: how big it is, w
 
 ## Nelson Moses Lassiter, Founder & CEO
 
-Emmy-nominated film and TV executive and founder of Shortee. He spent five years in Original Series Production at **Netflix**, served as a Creative Executive at **Tubi** developing and producing 15+ films, and later worked as a Creative Executive at **DramaBox**, where he co-led development of its AI content-innovation team. One of the few executives to have worked inside premium streaming, AVOD, and global vertical drama, he brings the exact experience Shortee was built on.
+Emmy-nominated film and TV executive and founder of Shortee. He spent five years in Original Series Production at **Netflix**, served as a Creative Executive at **Tubi** developing and producing 15+ films, and later worked as a Creative Executive at **DramaBox**, including AI Content Innovation. One of the few executives to have worked inside premium streaming, AVOD, and global vertical drama, he brings the exact experience Shortee was built on.
 
 ## How we work
 
