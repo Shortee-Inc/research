@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  {% feed_meta %}
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+  <div class="s-ground" aria-hidden="true"><div class="s-veil"></div><div class="s-grain"></div></div>
+  <header class="s-topbar">
+    <a class="s-brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/logo.webp' | relative_url }}" alt="" width="36" height="35">Shortee Research</a>
+    <nav class="s-tabs" aria-label="Site">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' or page.layout == 'post' %} aria-current="page"{% endif %}>Articles</a>
+      <a href="{{ '/data/' | relative_url }}"{% if page.url == '/data/' %} aria-current="page"{% endif %}>Data</a>
+      <a href="{{ '/methodology/' | relative_url }}"{% if page.url == '/methodology/' %} aria-current="page"{% endif %}>Methodology</a>
+      <a href="{{ '/corrections/' | relative_url }}"{% if page.url == '/corrections/' %} aria-current="page"{% endif %}>Corrections</a>
+      <a href="https://myshortee.com/">Shortee</a>
+    </nav>
+  </header>
+  <main class="s-main">
+    {{ content }}
+  </main>
+  <footer class="s-footer">
+    <span>© {{ site.time | date: '%Y' }} Shortee</span>
+    <a href="https://myshortee.com/">myshortee.com</a>
+    <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    <a href="https://github.com/Shortee-Inc/research">GitHub</a>
+  </footer>
+</body>
+</html>

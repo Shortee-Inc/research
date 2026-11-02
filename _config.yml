@@ -1,6 +1,5 @@
 title: Shortee Research
 description: Articles and research from Shortee.
-theme: minima
 baseurl: ""
 url: https://research.myshortee.com
 permalink: /:year/:month/:title/
