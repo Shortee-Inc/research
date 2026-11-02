@@ -1,11 +1,9 @@
 # Shortee Research
 
-Public articles and research from Shortee, published at
-https://research.myshortee.com/.
+Analysis of the microdrama industry, led by Nelson Moses Lassiter, founder and CEO of Shortee.
+Published at https://research.myshortee.com/.
 
-## Open data
-
-`data/` holds the datasets behind the [Microdrama Index](https://myshortee.com/research): quoted market figures and a news wire. `.github/workflows/sync.yml` copies them from the live page every day at 09:30 UTC and commits only when something changed, so the git history is the dataset history. Method: `methodology.md`; corrections: `corrections.md`; citation: `CITATION.cff`.
+Method: `methodology.md` · corrections: `corrections.md` · author: `about.md` · citation: `CITATION.cff`.
 
 ## Publishing an article
 
@@ -16,12 +14,17 @@ https://research.myshortee.com/.
 
 ## Publishing rules
 
-Everything in this repository is public.
+Everything in this repository is public. The goal is to stay clearly within the law and every
+source's terms.
 
+- **Publish our analysis; cite our sources; never redistribute their data.** Name the publisher
+  and link to where we read each figure, with the date read. Quote only the short passage a
+  figure comes from.
+- **No raw datasets that belong to others** — research reports, data providers, news feeds —
+  as files, tables copied wholesale, or downloads.
 - **Never publish data read through a third-party platform's API** (Meta/Instagram, TikTok,
-  YouTube, X, app-store analytics, ad networks, …) — not as a file, a table, a chart or a
-  number in an article. Those terms restrict redistribution, and we do not cross that line.
-- Every figure must come from a published source we can quote and link to, with the date we read it.
+  YouTube, X, app-store analytics, ad networks, …) in any form, not even as analysis.
+- Show the arithmetic behind any number we derive, and label it as ours.
 - Articles are at least 1,300 words.
 - No internal figures, credentials, or anything not cleared for publication.
 

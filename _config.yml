@@ -1,14 +1,16 @@
 title: Shortee Research
-description: Articles and research from Shortee.
+description: Analysis of the microdrama industry by Nelson Moses Lassiter, founder and CEO of Shortee.
 baseurl: ""
 url: https://research.myshortee.com
 permalink: /:year/:month/:title/
 exclude:
   - README.md
   - _templates
-  - scripts
   - CITATION.cff
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+author:
+  name: Nelson Moses Lassiter
+  url: https://research.myshortee.com/about/

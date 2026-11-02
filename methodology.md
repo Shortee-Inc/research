@@ -4,21 +4,23 @@ title: Methodology
 permalink: /methodology/
 ---
 
-## What we do not publish
+Research on this site is led by [Nelson Moses Lassiter]({{ '/about/' | relative_url }}), founder and CEO of Shortee.
 
-We do not republish data obtained through a third-party platform's API, such as Meta, TikTok or YouTube, or any data whose terms do not allow redistribution. Every figure here comes from a source we can quote and link to.
+## What we publish, and what we do not
 
-## Market figures (`data/market_figures.json`)
+- **We publish our own analysis.** Comparisons, calculations and conclusions are ours, and we show the arithmetic behind every number we derive.
+- **We cite our sources; we do not redistribute them.** Every figure names its publisher and links to where we read it, with the date we read it. We quote only the short passage a figure comes from.
+- **We do not publish raw datasets** that belong to others: research reports, data providers, news feeds, or data obtained through a third-party platform's API (such as Meta, TikTok or YouTube). Those stay with their owners.
 
-- Each entry carries the **verbatim sentence** from its source, the source URL, the publication date and the date we checked it.
-- **We never stack sources.** Sensor Tower reports app-store in-app purchase revenue. Firms such as Omdia report total revenue, including ads and subscriptions sold outside app stores. These numbers are not comparable, so we never add, subtract or chart them as one series.
-- A figure we could not open and read at its source is left out, even when it is widely repeated.
+## Market figures
 
-## News (`data/news.json`)
+- We use a figure only if we could open and read it at its source. A number that is widely repeated but that we could not read at its source is left out.
+- **We never stack sources.** Sensor Tower reports app-store in-app purchase revenue. Omdia estimates total microdrama revenue, not only app-store purchases. These numbers are not comparable, so we never add, subtract or chart them as one series.
 
-- Source: a Google News search for "microdrama", "microdramas", "micro-drama", "short drama" and "vertical drama" over the past 30 days.
-- We publish the headline, publisher, date and link only. We do not summarise or rewrite them.
-- When the same story appears from several publishers, the page shows it once. Piracy-mirror listings are removed.
+## News
+
+- We follow microdrama coverage daily through a Google News search for "microdrama", "microdramas", "micro-drama", "short drama" and "vertical drama".
+- When an article mentions a headline, it links to the original publisher. We do not summarise articles we have not read.
 
 ## When "no data" is a broken tool
 

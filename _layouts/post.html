@@ -5,8 +5,9 @@ layout: default
   <p class="s-eyebrow">Research</p>
   <h1 class="s-title s-g">{{ page.title }}</h1>
   {% if page.summary %}<p class="s-dek">{{ page.summary }}</p>{% endif %}
-  <p class="s-meta">{{ page.author | default: 'Shortee' }} · <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%-d %B %Y' }}</time> · {{ content | number_of_words }} words</p>
+  <p class="s-meta">By <a href="{{ '/about/' | relative_url }}">{{ page.author | default: site.author.name }}</a> · <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%-d %B %Y' }}</time> · {{ content | number_of_words }} words</p>
   <div class="s-prose" style="margin-top:28px">
     {{ content }}
   </div>
+  {% include author.html %}
 </article>

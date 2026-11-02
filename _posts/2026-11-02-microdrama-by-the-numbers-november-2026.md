@@ -2,12 +2,12 @@
 layout: post
 title: "Microdrama by the numbers: November 2026"
 date: 2026-11-02
-author: Shortee
+author: Nelson Moses Lassiter
 tags: [microdrama, market, data]
 summary: "Short drama downloads grew seven times faster than in-app revenue in Q1 2026. Here is what the published research says about audience, money and time spent, and what it does not say."
 ---
 
-How big is the microdrama business, and how fast is it growing? The question sounds simple, but the answers in circulation range across billions of dollars, because different firms count different things. In this article we set out what three published sources say as of November 2026, explain which numbers can and cannot be compared, and show the arithmetic behind every figure we derive. Each number links to where we read it, and each one is also in our open [market figures dataset]({{ site.baseurl }}/data/), quoted word for word with its source and the date we checked it.
+How big is the microdrama business, and how fast is it growing? The question sounds simple, but the answers in circulation range across billions of dollars, because different firms count different things. In this article we set out what three published sources say as of November 2026, explain which numbers can and cannot be compared, and show the arithmetic behind every figure we derive. Each number names its source and links to where we read it, with the date we read it.
 
 ## Downloads are growing much faster than revenue
 
@@ -82,7 +82,7 @@ These two engagement figures should not be compared directly. Omdia's is one lea
 
 ## What the headlines say
 
-Our [news dataset]({{ site.baseurl }}/data/) collects microdrama headlines every day. We publish headlines, publishers and links only, and we do not summarise articles we have not verified. In the last week of October 2026, a few themes stood out in the headlines themselves:
+We follow microdrama coverage every day. Below we cite headlines and link to the original publishers; we do not summarise articles we have not verified. In the last week of October 2026, a few themes stood out in the headlines themselves:
 
 - **Big platforms are moving in.** Social Media Today reported that [YouTube adds microdrama subscriptions](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXREcDhmWUl2OFFad0dfNWt1ZEQ3VkI0ZE9HVlJvZ0YxSG9CMF8yWTlQUE9SaThXanJzTERUc0huYldOWkF0MWRxNkY1Z3pTYnRHOFF2YlFwcUp2d2gzbUMwcWJDNHFXZlJ3VEdSNVgzSGN5dGJQMUJobDRUWmZLM0M5Uk9BWU1jSWMw?oc=5), and the South China Morning Post wrote that [China's microdrama war heats up as Tencent, ByteDance fight for eyeballs](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2MteDRBRVBIa2taNWRLOUQ3a0F6eU8zc0tqak96MW1BWm0zbmpMeWRWRm5EVzlncEgtalhQQ3RqekF2aXA2ZGNpMUVPUWRlUlBad3gteTNSenEyNHdNVEZ3NlBXTnMyNU05MHdlSGpBSXdMa2VfbTl3RGtGdVRnbEdkSmNLNHNCZExWYXZlLWpaU1pNelF0VXAyMkREODZ2Mmh0YVRZWnhuMG1TLU42SNIBsAFBVV95cUxOaGhDT0VEaG9ETHBuT2FQeV8yRmU1NDhWV0Z4UzM0NmdONmg4QmtHQVFYZ1phSHh4NFlPbGRpUG1oYnJMU1VhdkJVNm1RRVBNTWR1Qkxjd3BvOVBKYWdGMi1qNkZFVmF2eUtxcmF6QVRMSlBDYXZUWDVXaXJva2ZnbXVnM01ZNy10eHdLYms1by1INUl4Z2Y5VW9GMW1OLUFEUU9QZWtYRG5oU3FVVER5Yw?oc=5).
 - **Expansion into the fast-growing regions.** Variety reported that [microdrama platform FlareFlow sets Thailand launch on AIS Play](https://news.google.com/rss/articles/CBMioAFBVV95cUxObkJJN0xtRmxxRWxpLU5oV2Rld3V2NVJkMFBaNzBWVDlJc1VBSmwza3ZnZGszUlRYMjNzT2VuejdFQTN3WFRESHJTcWlBR3ZNMWNXZ3VadmhyUTAtd0JKZ0ZibGxFb0xFRnBtMXRueTRHbElyN0ZDbk5ONnVVWlFyNnJOMlBzMm5iTTVhUDFpd3EtSXdhcTVZNGhzV2g4U09R?oc=5), and China Daily ran [Southeast Asia emerges as fast-growing market for micro-dramas](https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2hnQUxQbG1iMjFFY05ISHdlNzlvV28tSkFuTEIyMjd5eDBMX1lwTlZhbzdVSjZHZVVZTDNvWFNKN0pBUE4zQ3BzaWlJdVBGWU9XMVB2Zkp2eExvenJtTHl1aDY2YnpscUp0ZVRSQkdqNS05OW9GNFA1LVJ1cVNYV0VR?oc=5), which matches the Sensor Tower download shares above.
@@ -113,4 +113,4 @@ We will update these figures as new reports are published. If you find an error,
 1. Sensor Tower, *[State of Short Drama Apps 2026](https://sensortower.com/blog/state-of-short-drama-apps-2026-report)*, June 2026. Read 2 November 2026.
 2. Omdia, *[Microdramas overtake streamers on mobile engagement, says Omdia](https://omdia.tech.informa.com/pr/2026/feb/microdramas-overtake-streamers-on-mobile-engagement-says-omdia)*, 23 February 2026. Read 2 November 2026.
 3. Adjust, *[The short drama apps report](https://www.adjust.com/blog/short-drama-apps-report/)*, 23 June 2026. Read 2 November 2026.
-4. Headlines: Shortee news dataset (Google News search), collected 28–30 October and 2 November 2026.
+4. Headlines: as published by each outlet linked above, 28 October to 2 November 2026.
