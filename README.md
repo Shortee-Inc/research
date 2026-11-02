@@ -3,6 +3,10 @@
 Public articles and research from Shortee, published at
 https://research.myshortee.com/.
 
+## Open data
+
+`data/` holds the datasets behind the [Microdrama Index](https://myshortee.com/research): daily Instagram followers for the largest microdrama apps, quoted market figures and a news wire. `.github/workflows/sync.yml` copies them from the live page every day at 09:30 UTC and commits only when something changed, so the git history is the dataset history. Method: `methodology.md`; corrections: `corrections.md`; citation: `CITATION.cff`.
+
 ## Publishing an article
 
 1. Copy `_templates/article.md` to `_posts/YYYY-MM-DD-short-slug.md`.

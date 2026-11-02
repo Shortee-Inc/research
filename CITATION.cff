@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Microdrama Research: open data on the microdrama industry"
+type: dataset
+authors:
+  - name: "Shortee, Inc."
+    website: "https://myshortee.com"
+url: "https://research.myshortee.com"
+repository-code: "https://github.com/Shortee-Inc/research"
+date-released: "2026-11-02"
+keywords:
+  - microdrama
+  - short drama
+  - vertical drama
+  - streaming
+  - mobile apps

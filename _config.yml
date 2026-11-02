@@ -7,3 +7,5 @@ permalink: /:year/:month/:title/
 exclude:
   - README.md
   - _templates
+  - scripts
+  - CITATION.cff
