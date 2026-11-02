@@ -9,3 +9,7 @@ exclude:
   - _templates
   - scripts
   - CITATION.cff
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
