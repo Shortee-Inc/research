@@ -12,6 +12,15 @@ Research on this site is led by [Nelson Moses Lassiter]({{ '/about/' | relative_
 - **We cite our sources; we do not redistribute them.** Every figure names its publisher and links to where we read it, with the date we read it. We quote only the short passage a figure comes from.
 - **We do not publish raw datasets** that belong to others: research reports, data providers, news feeds, or data obtained through a third-party platform's API (such as Meta, TikTok or YouTube). Those stay with their owners.
 
+## Social media figures
+
+When an article cites a follower count or similar figure from a social platform, it comes from one of two places, and we say which:
+
+- **The public profile, read by a person.** We open the account's public page, read the number shown, and cite the handle and the date we viewed it. We do not collect these figures with scripts, scrapers or the platform's API.
+- **Someone else's publication**, such as a company announcement, a news report or a research report, cited like any other source.
+
+A count shown on a profile is rounded by the platform (for example "1.2M"), so we report it as shown and treat small differences as noise.
+
 ## Market figures
 
 - We use a figure only if we could open and read it at its source. A number that is widely repeated but that we could not read at its source is left out.

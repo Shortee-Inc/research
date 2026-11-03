@@ -24,6 +24,15 @@ source's terms.
   as files, tables copied wholesale, or downloads.
 - **Never publish data read through a third-party platform's API** (Meta/Instagram, TikTok,
   YouTube, X, app-store analytics, ad networks, …) in any form, not even as analysis.
+- **Keep a firewall between internal platform data and public work.** Meta's terms count data
+  "anonymized, aggregated, or derived" from API pulls as theirs, so internal API data may decide
+  *what* we look at, but no number in a public article may come from it — not copied, not
+  rounded, not turned into a rank or a growth rate.
+- **A public social figure needs a public route.** Either (a) a person reads it by hand on the
+  public profile page — never a script, scraper or API — and we cite it as
+  `@handle public Instagram profile, viewed D Month YYYY`; or (b) it comes from someone else's
+  publication (a company announcement, press, a research report), cited like any source. Have
+  counsel confirm (a) before the first article that uses it.
 - Show the arithmetic behind any number we derive, and label it as ours.
 - Articles are at least 1,300 words.
 - No internal figures, credentials, or anything not cleared for publication.
