@@ -2,7 +2,7 @@
 layout: post
 title: "Article title"
 date: 2026-01-01
-author: Nelson Moses Lassiter
+author: Shortee Research Team
 tags: []
 summary: "One-sentence summary shown on the index."
 ---

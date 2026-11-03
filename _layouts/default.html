@@ -18,6 +18,7 @@
     <nav class="s-tabs" aria-label="Site">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' or page.layout == 'post' %} aria-current="page"{% endif %}>Articles</a>
       <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+      <a href="{{ '/team/' | relative_url }}"{% if page.url == '/team/' %} aria-current="page"{% endif %}>Team</a>
       <a href="{{ '/methodology/' | relative_url }}"{% if page.url == '/methodology/' %} aria-current="page"{% endif %}>Methodology</a>
       <a href="{{ '/corrections/' | relative_url }}"{% if page.url == '/corrections/' %} aria-current="page"{% endif %}>Corrections</a>
       <a href="https://myshortee.com/">Shortee</a>
