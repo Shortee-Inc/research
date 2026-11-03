@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Shortee Research Team
+title: How our research is made
 permalink: /team/
 ---
 
-The Shortee Research Team writes the articles on this site and on the [Shortee blog](https://myshortee.com/blog). It is led by Nelson Moses Lassiter, founder and CEO of Shortee.
+The articles on this site are by Nelson Moses Lassiter, founder and CEO of Shortee.
 
-## Who leads the research
+## About the author
 
 **Nelson Moses Lassiter, Founder & CEO.** Emmy-nominated film and TV executive. He spent five years in Original Series Production at Netflix, served as a Creative Executive at Tubi developing and producing 15+ films, and later worked as a Creative Executive at DramaBox, including AI Content Innovation. [More about our research]({{ '/about/' | relative_url }}).
 
