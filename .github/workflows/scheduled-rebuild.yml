@@ -1,0 +1,18 @@
+# Publishes dated posts on their day. GitHub Pages hides a post dated in the future and only
+# rebuilds on a push, so a post dated 2026-12-01 stays hidden until something rebuilds the site.
+# This asks GitHub Pages for a rebuild at 08:15 UTC (00:15 Pacific) on 1 December.
+# Add a cron line for any other future-dated post; run it by hand from the Actions tab.
+name: Scheduled rebuild
+on:
+  schedule:
+    - cron: "15 8 1 12 *"
+  workflow_dispatch:
+permissions:
+  pages: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+        env:
+          GH_TOKEN: ${{ github.token }}
