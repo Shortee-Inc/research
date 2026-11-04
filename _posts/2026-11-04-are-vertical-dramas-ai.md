@@ -6,6 +6,8 @@ date: 2026-11-04
 permalink: /are-vertical-dramas-ai/
 summary: "About two-thirds of new vertical dramas released outside China in Q3 2026 were made with AI, but live action has not gone away. What that means for viewers, and why free with ads for the whole series matters."
 keyword: "are vertical dramas ai"
+hero: /assets/img/research/are-vertical-dramas-ai.jpg
+image: /assets/img/research/are-vertical-dramas-ai-card.jpg
 ---
 
 People searching *are vertical dramas ai* tend to get one of two answers. AI-studio and tool sites imply that vertical dramas are AI by default, and generic explainers skip the question. The accurate answer sits between the two: many new vertical dramas are now AI-made, but not all of them, and the mix differs by platform and by market. It also matters to viewers in a way most coverage ignores, because the shows sit behind coin unlocks, weekly plans and billing disputes. [Shortee](https://myshortee.com/) is free with ads for the whole series, which makes the AI question easier to live with: a viewer can watch a series from start to finish without coins or a weekly plan.
@@ -14,11 +16,9 @@ People searching *are vertical dramas ai* tend to get one of two answers. AI-stu
 
 The clearest figure comes from Owl & Co's *What We Watched on Vertical* report, as covered by [The Hollywood Reporter](https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402). Across 20 top platforms outside China, two-thirds of vertical drama releases in Q3 2026 were AI generated. That is a steep climb. The same report put the AI share at 3% in Q1 2026 and 28% in Q2.
 
-| Quarter (2026) | AI share of releases outside China |
-|---|---|
-| Q1 | 3% |
-| Q2 | 28% |
-| Q3 | Two-thirds |
+
+<figure class="chart" style="margin:28px 0"><figcaption style="font-weight:600;margin-bottom:8px">AI-generated share of new vertical drama releases outside China, 2026 (Owl &amp; Co)</figcaption><svg viewBox="0 0 680 118" width="100%" role="img" aria-label="AI-generated share of new vertical drama releases outside China, 2026 (Owl &amp; Co): Q1 3%, Q2 28%, Q3 (two-thirds) 66.7%"><text x="180" y="29" text-anchor="end" fill="currentColor" font-size="14">Q1</text><rect x="190" y="14" width="18" height="20" rx="4" fill="#FF3D8E"/><text x="216" y="29" fill="currentColor" font-size="14" font-weight="600">3%</text><text x="180" y="63" text-anchor="end" fill="currentColor" font-size="14">Q2</text><rect x="190" y="48" width="168" height="20" rx="4" fill="#FF3D8E"/><text x="366" y="63" fill="currentColor" font-size="14" font-weight="600">28%</text><text x="180" y="97" text-anchor="end" fill="currentColor" font-size="14">Q3 (two-thirds)</text><rect x="190" y="82" width="400" height="20" rx="4" fill="#FF3D8E"/><text x="598" y="97" fill="currentColor" font-size="14" font-weight="600">66.7%</text></svg><p style="font-size:13px;opacity:.75;margin-top:6px">Source: <a href="https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402">The Hollywood Reporter</a></p></figure>
+
 
 Two cautions apply. First, this measures releases, which is a count of what was published, not a count of what viewers watched. Second, it covers platforms outside China. Read plainly, the finding is that AI-generated series have gone from a rarity to the majority of new releases in the tracked set within three quarters. It does not say that every vertical drama is AI, and it does not say the next quarter will look the same.
 
@@ -41,6 +41,10 @@ So the honest reply to the search is conditional: it depends on the platform, th
 The shift has an economic driver. Dashverse, an Indian AI entertainment company, said an hour of its AI content costs as little as $20,000, versus $150,000 budgets for live-action vertical series, as reported by [TheWrap](https://www.thewrap.com/media-platforms/tv/ai-generated-microdramas-could-be-the-future-of-mobile-entertainment). It also said it planned to reach 1,000 AI microseries a month by the end of the year, up from 100 series in June. These are company claims, not audited figures, and they come from a firm that sells AI production. They are still a plain explanation of why the AI share rose so fast: a producer can make far more titles for the same budget.
 
 The category's growth gives producers a reason to fill the shelf. Global short drama app downloads passed 850 million in Q1 2026, up 140% year on year, per [Sensor Tower](https://sensortower.com/blog/state-of-short-drama-apps-2026-report). Omdia estimates global microdrama revenue at $11 billion in 2025 and forecasts $14 billion in 2026, as relayed by [Media Marketing](https://www.media-marketing.com/en/news/microdrama-apps-overtake-streamers-on-mobile). More demand means more pressure to publish cheaply and quickly.
+
+
+<figure class="chart" style="margin:28px 0"><figcaption style="font-weight:600;margin-bottom:8px">Global microdrama revenue, US$ billions (Omdia)</figcaption><svg viewBox="0 0 680 84" width="100%" role="img" aria-label="Global microdrama revenue, US$ billions (Omdia): 2025 11B, 2026 (forecast) 14B"><text x="180" y="29" text-anchor="end" fill="currentColor" font-size="14">2025</text><rect x="190" y="14" width="314" height="20" rx="4" fill="#FF3D8E"/><text x="512" y="29" fill="currentColor" font-size="14" font-weight="600">11B</text><text x="180" y="63" text-anchor="end" fill="currentColor" font-size="14">2026 (forecast)</text><rect x="190" y="48" width="400" height="20" rx="4" fill="#FF3D8E"/><text x="598" y="63" fill="currentColor" font-size="14" font-weight="600">14B</text></svg><p style="font-size:13px;opacity:.75;margin-top:6px">Source: <a href="https://www.media-marketing.com/en/news/microdrama-apps-overtake-streamers-on-mobile">Media Marketing</a></p></figure>
+
 
 Here the viewer's position gets awkward. Lower production cost does not show up as lower prices in the paid apps. The same coin and weekly-plan structure applies whether a series was shot with actors or generated. Shortee's model breaks that link by charging nothing for the whole series: it is free with ads, and viewers who do not want ads can subscribe.
 
@@ -75,6 +79,10 @@ The evidence from the category favors the ad-supported model. [Sensor Tower](htt
 
 The broader data points the same way. Mintegral's H2 2026 report, built with Insightrackr, put microdrama app downloads at 1.45 billion in H1 2026, up 95.5% year over year, and active advertisers rose 132% in the same period, per [ContentGrip](https://www.contentgrip.com/microdrama-app-advertising). In that data as relayed by [Mintec](https://mintec.co/blog/microdrama-ads-playbook), 57.6% of the sector runs hybrid monetization and 39.9% is in-app advertising only. A trade write-up summarized by [The Brave](https://www.thebrave.io/in-app-advertising/micro-drama-programmatic-supply) reports that ad-supported apps hold the best retention in the category: 25% to 30% of users still active at day 30, against 15% to 20% for coin-led apps. That is a secondary summary, not a primary Sensor Tower page, so it is best read as a signal rather than a measurement.
 
+
+<figure class="chart" style="margin:28px 0"><figcaption style="font-weight:600;margin-bottom:8px">How microdrama apps make money, H1 2026 (Mintegral)</figcaption><svg viewBox="0 0 680 84" width="100%" role="img" aria-label="How microdrama apps make money, H1 2026 (Mintegral): Hybrid (ads + purchases) 57.6%, In-app ads only 39.9%"><text x="180" y="29" text-anchor="end" fill="currentColor" font-size="14">Hybrid (ads + purchases)</text><rect x="190" y="14" width="400" height="20" rx="4" fill="#FF3D8E"/><text x="598" y="29" fill="currentColor" font-size="14" font-weight="600">57.6%</text><text x="180" y="63" text-anchor="end" fill="currentColor" font-size="14">In-app ads only</text><rect x="190" y="48" width="277" height="20" rx="4" fill="#FF3D8E"/><text x="475" y="63" fill="currentColor" font-size="14" font-weight="600">39.9%</text></svg><p style="font-size:13px;opacity:.75;margin-top:6px">Source: <a href="https://mintec.co/blog/microdrama-ads-playbook">Mintec</a></p></figure>
+
+
 Other free options exist, and they show the model is not unusual. TikTok launched PineDrama in the US and Brazil in January 2026 with free, ad-free viewing, then by September had integrated it into its advertising infrastructure, according to [Robonomics](https://robonomics.substack.com/p/micro-drama-hongguo-update-202610). A review roundup at [StreamDiag](https://streamdiag.com/streaming-services/the-best-microdrama-platforms-for-watching-short-vertical-dramas-21177) describes ViX as having a free-with-ads catalog of complete vertical dramas, with no coins or VIP pass needed.
 
 Compared with ReelShort and DramaBox, which lead on in-app revenue at close to US$140M each in Q1 2026 per [Sensor Tower](https://sensortower.com/blog/state-of-short-drama-apps-2026-report), Shortee asks viewers for nothing up front. The paid apps earn money by charging per episode or per week, and Shortee does not. It is free with ads for the whole series. A viewer who wants no ads can subscribe, and the full comparison is on [Shortee's comparisons page](https://myshortee.com/comparisons).
@@ -108,3 +116,4 @@ No. Shortee's First Look commitment says it will not use a person's name, likene
 **Is Shortee really free?**
 
 Yes. Shortee is free with ads for the whole series. Viewers who do not want ads can subscribe, or win tokens in arcade games and spend them to watch shows ad-free.
+
