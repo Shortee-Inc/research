@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Are Vertical Dramas AI? What the Q3 2026 Data Shows"
+title: "Will All Vertical Dramas Become AI?"
 author: Nelson Moses Lassiter
 date: 2026-11-04
 permalink: /are-vertical-dramas-ai/
-summary: "Searching are vertical dramas ai? Two-thirds of Q3 2026 releases outside China were AI, but live action remains. Why free with ads matters for viewers."
+summary: "About two-thirds of new vertical dramas released outside China in Q3 2026 were made with AI, but live action has not gone away. What that means for viewers, and why free with ads for the whole series matters."
 keyword: "are vertical dramas ai"
 ---
 
