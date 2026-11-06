@@ -74,7 +74,7 @@ Engagement is where microdrama makes its strongest case. Omdia reported US mobil
 | Netflix | 24.8 |
 | Disney+ | 23.0 |
 
-On mobile, people who use ReelShort spend more time in it each day than people who use any of the three major streamers spend in theirs.
+On mobile, the leading microdrama app already holds its users longer each day than any of the three major streamers holds theirs. The format earns that attention; what remains open is how viewers are asked to pay for it.
 
 Sensor Tower's global figure measures something different: the average daily time spent across short drama apps. It reached **25 minutes** by April 2026, **up 85%** from January 2025, while time spent in OTT streaming apps stayed broadly flat at around **35 minutes**.<sup>[1]</sup> Working backwards, the category average was about 13.5 minutes a day in January 2025, so it has nearly doubled in about fifteen months.
 
@@ -98,11 +98,19 @@ You will see very different totals for "the microdrama market". Usually they are
 
 These numbers are all useful, but they cannot be added together, subtracted from each other or drawn as one line on a chart. Multiplying Sensor Tower's quarter by four and comparing it with Omdia's year would be a mistake, because the two firms are counting different money. We quote each figure with its source and never mix them. The full rules are on our [methodology]({{ site.baseurl }}/methodology/) page.
 
+## Where Shortee fits
+
+The numbers above point one way. Viewers are arriving far faster than they are paying, in-app revenue per download has roughly halved in a year, and the fastest-growing audiences are in markets where people spend little inside apps. A model that asks every viewer to buy coins or a weekly pass at a cliffhanger is built around the part of the audience that is shrinking as a share of the whole.
+
+Shortee is built the other way. Every series on Shortee is free to watch with ads, from the first episode to the last, with no coins and no paywall at a cliffhanger. Viewers who prefer no ads can subscribe, or win tokens in Shortee's arcade games and spend them to watch ad-free. That is Shortee's answer to the question this report keeps returning to: the new audience does not have to start paying in-app for the format to reach it, because advertising pays for the viewing.
+
+The same arithmetic matters to creators. A series behind a paywall is finished only by the viewers who pay; a series that is free with ads can be watched in full by everyone who opens it. More about the app, and about publishing on it, is at [myshortee.com](https://myshortee.com).
+
 ## What to watch next
 
 Three questions will decide how the next year of microdrama looks, and each can be answered with published data as it appears:
 
-1. **Does revenue start to catch up with downloads?** If in-app revenue growth stays near 20% while downloads grow at triple-digit rates, revenue per download will keep falling, and the business will rely more on advertising.
+1. **Does revenue start to catch up with downloads?** If in-app revenue growth stays near 20% while downloads grow at triple-digit rates, revenue per download will keep falling, and the business will rely more on advertising, the model Shortee already runs on.
 2. **Do the new regions start to pay?** Southeast Asia, Latin America and India lead downloads. Whether their share of revenue rises will show whether the format can earn money there, not just attract viewers.
 3. **Does time spent keep rising?** The category average nearly doubled in fifteen months but is still below streaming's roughly 35 minutes. If the gap keeps closing, microdrama becomes a direct competitor for the same viewing time.
 
