@@ -1,0 +1,48 @@
+# Publishes research.myshortee.com. The site is built HERE (Pages source = GitHub Actions), not by the
+# branch build, so the checks run BEFORE anything goes live: a push that fails a check never publishes,
+# and the live site stays on its last good build. (Owner 2026-11-05: two hand-written issues went live
+# in the first person — "make sure that never happens again".)
+#
+# Free: the repo is public, so these runs use no org Actions minutes.
+#
+# The schedule publishes dated posts on their day: Jekyll hides a post dated in the future, so a post
+# dated 2026-12-01 stays hidden until a build runs on or after that day. 08:15 UTC = 00:15 Pacific.
+# Add a cron line for any other future-dated post. (Replaces scheduled-rebuild.yml.)
+name: Publish site
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "15 8 1 12 *"
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Third person only
+        run: node scripts/check-voice.mjs
+  build:
+    needs: check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
+      - uses: actions/upload-pages-artifact@v3
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

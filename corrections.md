@@ -4,9 +4,9 @@ title: Corrections
 permalink: /corrections/
 ---
 
-When something we published turns out to be wrong, we record it here: what we said, what is true, the source, and the date. Nothing is silently edited.
+When something Shortee Research published turns out to be wrong, it is recorded here: what was said, what is true, the source, and the date. Nothing is silently edited.
 
-| Date | What we published | Correction | Source |
+| Date | What was published | Correction | Source |
 |---|---|---|---|
 | — | No corrections yet. | | |
 

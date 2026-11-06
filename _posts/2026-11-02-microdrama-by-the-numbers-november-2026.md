@@ -7,7 +7,7 @@ tags: [microdrama, market, data]
 summary: "Short drama downloads grew seven times faster than in-app revenue in Q1 2026. Here is what the published research says about audience, money and time spent, and what it does not say."
 ---
 
-How big is the microdrama business, and how fast is it growing? The question sounds simple, but the answers in circulation range across billions of dollars, because different firms count different things. In this article we set out what three published sources say as of November 2026, explain which numbers can and cannot be compared, and show the arithmetic behind every figure we derive. Each number names its source and links to where we read it, with the date we read it.
+How big is the microdrama business, and how fast is it growing? The question sounds simple, but the answers in circulation range across billions of dollars, because different firms count different things. This article sets out what three published sources say as of November 2026, explains which numbers can and cannot be compared, and shows the arithmetic behind every derived figure. Each number names its source and links to where it was read, with the date it was read.
 
 ## Downloads are growing much faster than revenue
 
@@ -25,7 +25,7 @@ Those two growth rates are the most important pair of numbers in the category ri
 
 ### What one download is worth
 
-A simple way to see the gap is to divide revenue by downloads. This is our arithmetic, not a figure Sensor Tower publishes, and it is rough: revenue in a quarter comes from everyone who already had the app, not only from that quarter's new installs. It is still a useful signal of direction.
+A simple way to see the gap is to divide revenue by downloads. This is Shortee Research's arithmetic, not a figure Sensor Tower publishes, and it is rough: revenue in a quarter comes from everyone who already had the app, not only from that quarter's new installs. It is still a useful signal of direction.
 
 - **Q1 2026:** about $750 million across more than 850 million downloads is **at most about $0.88** of in-app revenue per download.
 - **Q1 2025:** working backwards from the growth rates, downloads were about 354 million (850 ÷ 2.4) and revenue about $625 million (750 ÷ 1.2). That is roughly **$1.77** per download.
@@ -42,7 +42,7 @@ Most of the growth in downloads is coming from outside the United States. In Q1 
 
 Adjust, which measures app installs from a different set of data, reports the same direction of travel. Its June 2026 report counted **2.3 billion** short drama app downloads in 2025, and said that by Q4 2025 downloads had increased **186%** year on year.<sup>[3]</sup>
 
-Adjust's full-year total and Sensor Tower's quarterly total come from different panels and methods, so we do not add them together or treat one as a continuation of the other. What matters is that two independent measurement firms describe the same pattern: very fast download growth through 2025 and into 2026.
+Adjust's full-year total and Sensor Tower's quarterly total come from different panels and methods, so this article does not add them together or treat one as a continuation of the other. What matters is that two independent measurement firms describe the same pattern: very fast download growth through 2025 and into 2026.
 
 ## Where the money is
 
@@ -59,7 +59,7 @@ Putting Omdia's figures side by side:
 | Outside China | $3B | about 21% |
 | United States | $1.5B | about 11% |
 
-The China and share figures in that table are our subtraction and division from Omdia's published numbers. They show how the format's economics still rest mostly on its home market, while the US carries half of the international business on its own.
+The China and share figures in that table are Shortee Research's subtraction and division from Omdia's published numbers. They show how the format's economics still rest mostly on its home market, while the US carries half of the international business on its own.
 
 Set against the download data, the contrast is sharp. The fastest-growing audiences are in Southeast Asia, Latin America and India, while the largest international revenue pool is in the United States. For anyone building in this category, the question is whether the new audiences will start to pay, or whether they will be served mainly through advertising and other models that app-store figures do not capture.
 
@@ -82,7 +82,7 @@ These two engagement figures should not be compared directly. Omdia's is one lea
 
 ## What the headlines say
 
-We follow microdrama coverage every day. Below we cite headlines and link to the original publishers; we do not summarise articles we have not verified. In the last week of October 2026, a few themes stood out in the headlines themselves:
+Shortee Research follows microdrama coverage every day. The headlines below link to the original publishers; articles that have not been verified are not summarised. In the last week of October 2026, a few themes stood out in the headlines themselves:
 
 - **Big platforms are moving in.** Social Media Today reported that [YouTube adds microdrama subscriptions](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXREcDhmWUl2OFFad0dfNWt1ZEQ3VkI0ZE9HVlJvZ0YxSG9CMF8yWTlQUE9SaThXanJzTERUc0huYldOWkF0MWRxNkY1Z3pTYnRHOFF2YlFwcUp2d2gzbUMwcWJDNHFXZlJ3VEdSNVgzSGN5dGJQMUJobDRUWmZLM0M5Uk9BWU1jSWMw?oc=5), and the South China Morning Post wrote that [China's microdrama war heats up as Tencent, ByteDance fight for eyeballs](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2MteDRBRVBIa2taNWRLOUQ3a0F6eU8zc0tqak96MW1BWm0zbmpMeWRWRm5EVzlncEgtalhQQ3RqekF2aXA2ZGNpMUVPUWRlUlBad3gteTNSenEyNHdNVEZ3NlBXTnMyNU05MHdlSGpBSXdMa2VfbTl3RGtGdVRnbEdkSmNLNHNCZExWYXZlLWpaU1pNelF0VXAyMkREODZ2Mmh0YVRZWnhuMG1TLU42SNIBsAFBVV95cUxOaGhDT0VEaG9ETHBuT2FQeV8yRmU1NDhWV0Z4UzM0NmdONmg4QmtHQVFYZ1phSHh4NFlPbGRpUG1oYnJMU1VhdkJVNm1RRVBNTWR1Qkxjd3BvOVBKYWdGMi1qNkZFVmF2eUtxcmF6QVRMSlBDYXZUWDVXaXJva2ZnbXVnM01ZNy10eHdLYms1by1INUl4Z2Y5VW9GMW1OLUFEUU9QZWtYRG5oU3FVVER5Yw?oc=5).
 - **Expansion into the fast-growing regions.** Variety reported that [microdrama platform FlareFlow sets Thailand launch on AIS Play](https://news.google.com/rss/articles/CBMioAFBVV95cUxObkJJN0xtRmxxRWxpLU5oV2Rld3V2NVJkMFBaNzBWVDlJc1VBSmwza3ZnZGszUlRYMjNzT2VuejdFQTN3WFRESHJTcWlBR3ZNMWNXZ3VadmhyUTAtd0JKZ0ZibGxFb0xFRnBtMXRueTRHbElyN0ZDbk5ONnVVWlFyNnJOMlBzMm5iTTVhUDFpd3EtSXdhcTVZNGhzV2g4U09R?oc=5), and China Daily ran [Southeast Asia emerges as fast-growing market for micro-dramas](https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2hnQUxQbG1iMjFFY05ISHdlNzlvV28tSkFuTEIyMjd5eDBMX1lwTlZhbzdVSjZHZVVZTDNvWFNKN0pBUE4zQ3BzaWlJdVBGWU9XMVB2Zkp2eExvenJtTHl1aDY2YnpscUp0ZVRSQkdqNS05OW9GNFA1LVJ1cVNYV0VR?oc=5), which matches the Sensor Tower download shares above.
@@ -96,7 +96,7 @@ You will see very different totals for "the microdrama market". Usually they are
 - **Omdia** estimates total microdrama revenue, not only app-store purchases, and includes China. Its $14 billion is an annual estimate for the whole market.
 - **Adjust** measures installs, not revenue, from its own measurement data.
 
-These numbers are all useful, but they cannot be added together, subtracted from each other or drawn as one line on a chart. Multiplying Sensor Tower's quarter by four and comparing it with Omdia's year would be a mistake, because the two firms are counting different money. We quote each figure with its source and never mix them. The full rules are on our [methodology]({{ site.baseurl }}/methodology/) page.
+These numbers are all useful, but they cannot be added together, subtracted from each other or drawn as one line on a chart. Multiplying Sensor Tower's quarter by four and comparing it with Omdia's year would be a mistake, because the two firms are counting different money. Each figure is quoted with its source and never mixed with another. The full rules are on the [methodology]({{ site.baseurl }}/methodology/) page.
 
 ## Where Shortee fits
 
@@ -114,7 +114,7 @@ Three questions will decide how the next year of microdrama looks, and each can 
 2. **Do the new regions start to pay?** Southeast Asia, Latin America and India lead downloads. Whether their share of revenue rises will show whether the format can earn money there, not just attract viewers.
 3. **Does time spent keep rising?** The category average nearly doubled in fifteen months but is still below streaming's roughly 35 minutes. If the gap keeps closing, microdrama becomes a direct competitor for the same viewing time.
 
-We will update these figures as new reports are published. If you find an error, it goes on our [corrections]({{ site.baseurl }}/corrections/) page with the source.
+These figures will be updated as new reports are published. Any error found goes on the [corrections]({{ site.baseurl }}/corrections/) page with the source.
 
 ## Sources
 

@@ -9,34 +9,34 @@ summary: "Deloitte expects in-app spending on micro-series to more than double i
 
 Two numbers published this autumn change how the microdrama business should be read going into 2027. Deloitte predicts that in-app revenue from micro-series will **more than double in 2026, to $7.8 billion**.<sup>[1]</sup> And in China, state broadcaster CCTV said that **95% of the 128,000 microdramas released in the first quarter of 2026 were AI-generated**.<sup>[2]</sup> One number is about how much viewers pay. The other is about how the shows are made. Together they describe a format that is getting much cheaper to produce while the audience keeps growing faster than the spending.
 
-This is our December update. As in [November]({{ site.baseurl }}/2026/11/microdrama-by-the-numbers-november-2026/), every figure names its source and links to where we read it, and every number we derive ourselves is labelled as our arithmetic.
+This is the December update from Shortee Research. As in [November]({{ site.baseurl }}/2026/11/microdrama-by-the-numbers-november-2026/), every figure names its source and links to where it was read, and every derived number is labelled as Shortee Research's arithmetic.
 
 ## In-app spending: a bigger forecast, measured a different way
 
 Deloitte's 2026 Technology, Media and Telecommunications Predictions include a chapter on short-form serials. Its headline forecast is that "the revenue growth of in-app micro-series will more than double, reaching $7.8 billion" in 2026.<sup>[1]</sup> Deloitte also expects the United States to account for **half of global revenue in 2025**, with its share declining to **40%** as other markets grow.<sup>[1]</sup>
 
-Deloitte does not publish its 2025 total on that page, but "more than double" sets a ceiling on it. This is our arithmetic:
+Deloitte does not publish its 2025 total on that page, but "more than double" sets a ceiling on it. This is Shortee Research's arithmetic:
 
 - If 2026 in-app revenue is $7.8 billion and that is more than twice 2025, then **2025 was below $3.9 billion** (7.8 ÷ 2).
 - If the US was half of 2025, **US in-app revenue in 2025 was below about $1.95 billion** (3.9 ÷ 2).
 
-We do not set Deloitte's forecast against Sensor Tower's figures from our November article. Sensor Tower measured about **$750 million** of in-app purchase revenue in Q1 2026, up 20% year on year.<sup>[3]</sup> The two firms define the category and the counting differently, and Deloitte's figure is an annual forecast while Sensor Tower's is a measured quarter. Multiplying one quarter by four and comparing it with a forecast would mix two different measurements, which our [methodology]({{ site.baseurl }}/methodology/) rules out.
+This article does not set Deloitte's forecast against Sensor Tower's figures from the November article. Sensor Tower measured about **$750 million** of in-app purchase revenue in Q1 2026, up 20% year on year.<sup>[3]</sup> The two firms define the category and the counting differently, and Deloitte's figure is an annual forecast while Sensor Tower's is a measured quarter. Multiplying one quarter by four and comparing it with a forecast would mix two different measurements, which the [methodology]({{ site.baseurl }}/methodology/) rules out.
 
 What the two sources agree on is direction. Both describe a category in which more viewers are paying inside apps every year, and in which the United States is the single most valuable market but a shrinking share of the total. That second point is the important one for anyone building for an American audience: growth is happening, but more of it is happening elsewhere.
 
 ## The audience is still growing faster than the spending
 
-Our November numbers showed the gap clearly. Sensor Tower counted more than **850 million** short drama app downloads in Q1 2026, **up 140%** year on year, against in-app revenue growth of **20%**.<sup>[3]</sup> Adjust, using its own measurement data, counted **2.3 billion** short drama app downloads in 2025.<sup>[4]</sup>
+The November numbers showed the gap clearly. Sensor Tower counted more than **850 million** short drama app downloads in Q1 2026, **up 140%** year on year, against in-app revenue growth of **20%**.<sup>[3]</sup> Adjust, using its own measurement data, counted **2.3 billion** short drama app downloads in 2025.<sup>[4]</sup>
 
-Our rough calculation in November put in-app revenue per download at **at most about $0.88** in Q1 2026, down from roughly **$1.77** a year earlier. Nothing published since then contradicts that trend. Downloads are arriving fastest from regions where viewers spend least inside apps: Southeast Asia, Latin America and India made up **77%** of Q1 2026 downloads between them.<sup>[3]</sup>
+The rough calculation in November put in-app revenue per download at **at most about $0.88** in Q1 2026, down from roughly **$1.77** a year earlier. Nothing published since then contradicts that trend. Downloads are arriving fastest from regions where viewers spend least inside apps: Southeast Asia, Latin America and India made up **77%** of Q1 2026 downloads between them.<sup>[3]</sup>
 
-The consequence is simple. If most new viewers will not pay per episode, the format has to earn money another way, and the obvious way is advertising. This is the model Shortee is built on: every series on Shortee is **free with ads for the whole series**, from the first episode to the last, and viewers who would rather skip ads can subscribe. The numbers above are why we think free with ads is where the next large audience for vertical drama will come from, not a pay-per-episode wall that most new viewers never cross.
+The consequence is simple. If most new viewers will not pay per episode, the format has to earn money another way, and the obvious way is advertising. This is the model Shortee is built on: every series on Shortee is **free with ads for the whole series**, from the first episode to the last, and viewers who would rather skip ads can subscribe. The numbers above are why Shortee holds that free with ads is where the next large audience for vertical drama will come from, not a pay-per-episode wall that most new viewers never cross.
 
 ## AI is now the default way microdramas are made in China
 
 The most striking number of the season comes from China's production side. Reporting from Hengdian World Studios, often called "China's Hollywood", AFP wrote that **AI-generated content accounted for 95% of the 128,000 microdramas released nationwide in the first quarter of 2026**, citing CCTV.<sup>[2]</sup>
 
-This is our arithmetic on those figures:
+This is Shortee Research's arithmetic on those figures:
 
 - 95% of 128,000 is about **121,600 AI-generated microdramas in a single quarter**.
 - That leaves about **6,400** titles, or roughly **70 a day**, made without AI as the main production method (6,400 ÷ about 91 days).
@@ -66,7 +66,7 @@ Each of these can be checked against published data as it appears:
 3. **Does AI production spread beyond China at the same rate?** If AI-generated releases outside China approach the 95% share CCTV reported for China, the number of available shows will rise sharply, and competition will move further towards distribution, discovery and the viewing experience.
 4. **Does advertising become the main business model?** With revenue per download falling, the most important number for 2027 may not be in-app spending at all, but how much the category earns from ads around free viewing.
 
-We will keep updating these figures as new research is published. Errors go on our [corrections]({{ site.baseurl }}/corrections/) page with the source.
+These figures will keep being updated as new research is published. Errors go on the [corrections]({{ site.baseurl }}/corrections/) page with the source.
 
 ## Why these numbers do not add up to one total
 
@@ -78,7 +78,7 @@ Readers often ask why the "size of the microdrama market" varies so widely. The 
 - **Adjust** counts app installs, not revenue.
 - **CCTV**, via AFP, counts titles released in China, not money.
 
-These are all useful, but they are not interchangeable. We quote each one with its source and never add, subtract or chart them as a single series.
+These are all useful, but they are not interchangeable. Each one is quoted with its source and never added, subtracted or charted as a single series.
 
 ## Sources
 
